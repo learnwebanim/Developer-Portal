@@ -19,3 +19,10 @@ This folder contains a curated collection of interview questions designed to hel
 - **Tech_Specific:** Questions focused on particular technologies, languages, and frameworks.
 
 By exploring both sections, contributors can build a comprehensive understanding of interview techniques and expectations.
+
+### Contribution Guidelines
+Contributors are encouraged to submit interview questions to either the **General** or **Tech_Specific** section based on the nature of the question:
+- For **General**, submit questions that are broadly applicable across technical interviews, regardless of specific tech skills.
+- For **Tech_Specific**, submit questions that target specific technologies, frameworks, or programming languages.  Make sure to clarify the expected answers or considerations related to that specific tech.
+
+Contributions should follow the repository's **contribution guidelines** and provide clear and well-explained answers where applicable, along with references or explanations of concepts.
