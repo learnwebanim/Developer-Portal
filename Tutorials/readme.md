@@ -12,4 +12,10 @@ The **Tutorials** folder is a collection of step-by-step guides on various progr
 - Avoid jargon where possible, and define any technical terms you use.
 - Consider including a **Resources** section at the end with additional reading or links to related topics.
 
+This folder contains educational resources and tutorials designed to help developers enhance their coding skills.  It is divided into two main sections:
+- **Language_Specific:** Tutorials that focus on specific programming languages, offering foundational knowledge, common patterns, and best practices.
+- **Techniques:** Tutorials on broader coding concepts, methodologies, and techniques that can be applied across various languages and technologies.
+
+Whether you're looking to deepen your knowledge in a particular language or understand important coding techniques, these tutorials will provide valuable insights.
+
 Tutorials should empower developers to learn by doing.  Whether it's a small snippet or a deep dive, your contribution can make a big impact!
