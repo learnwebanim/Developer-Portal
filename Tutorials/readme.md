@@ -19,3 +19,10 @@ This folder contains educational resources and tutorials designed to help develo
 Whether you're looking to deepen your knowledge in a particular language or understand important coding techniques, these tutorials will provide valuable insights.
 
 Tutorials should empower developers to learn by doing.  Whether it's a small snippet or a deep dive, your contribution can make a big impact!
+
+### Contribution Guidelines
+Contributors are encouraged to submit tutorials to either the **Language_Specific** or **Techniques** section based on the nature of the material:
+- For **Language_Specific**, make sure the tutorial is clearly tied to a specific programming language.
+- For **Techniques**, focus on providing tutorials that are language-agnostic or related to coding techniques applicable across various platforms.
+
+All submissions should follow the repository's **contribution guidelines** and include code examples, clear explanations, and references where applicable.
