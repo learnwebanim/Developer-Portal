@@ -51,7 +51,7 @@ We encourage **quality contributions** that help developers learn through practi
 2. **Follow the templates:** Each section has specific templates for contributions.  Please refer to the `/Templates` folder for examples on how to structure yor project ideas, tutorials, or challenge solutions.
 3. **Submit a Pull Request:** Once you've completed your contribution, submit a PR, and our team will review it!
 
-Please read our [CONTRIBUTING.md](docs/CONTRIBUTING.md) and [CODE_OF_CONDUCT](docs/CODE_OF_CONDUCT.md) for detailed guidelines and community expectations.
+Please read our [CONTRIBUTING.md](CONTRIBUTING.md) and [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md) for detailed guidelines and community expectations.
 ## 🎓 Who Can Contribute?
 - **Beginners** looking to contribute simple projects or learn from others.
 - **Intermediate** developers seeking to improve their skills through hands-on challenges and tutorials.
@@ -78,4 +78,4 @@ A big thank you to all our amazing contributors!  Check out the [Contributors pa
 ## 📞 Contact Us
 Have questions?  Feel free to open an issue or reach out to us via email at [learnwebanim@gmail.com](learnwebanim@gmail.com).
 ## Licence
-This project is licensed under the MIT License - See the [LICENSE](docs/LICENCE.md) file for details.
+This project is licensed under the MIT License - See the [LICENSE](LICENCE.md) file for details.
