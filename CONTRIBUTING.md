@@ -31,18 +31,21 @@ Projects should include:
 - **Code**: A complete, functional codebase with clear comments.
 
 **For Tutorials**
+
 Tutorials should include:
 - **Explanation**: A step-by-step breakdown of the topic, with practical examples.
 - **Code snippets**: If relevant, include simple code snippets that illustrate the concept.
 - **Optional exercises**: Encourage users to practice what they've learned.
 
 **For Challenges**
+
 Coding challenges should focus on explaining **approaches**, rather than providing full solutions.
 - **Problem breakdown**: Describe how to approach the problem.
 - **Hints**: Include any tips or hints to help others solve the challenge.
 - **Pseudocode/Diagrams**: Visual aidsor pseudocode to illustrate your thinking.
 
 **For Interview Questions**
+
 Contributions should include:
 - **Question breakdown**: How to approach and solve the question.
 - **Key concepts**: Explain any necessary theory.
