@@ -39,5 +39,5 @@ Provide links to in-depth documentation, tools, and libraries relevant to the pr
 
 > [!NOTE]
 > Projects **do not have to be language-specific**.
-> **Advanced Projects**: Can be language-agnostic, focusing more on architecture and complex systems.  However, it's helpful to offer guidance on which languages or technologies are suited for the projects (e.g., Docker for containerization, AWS for cloud deployment).
+> - **Advanced Projects**: Can be language-agnostic, focusing more on architecture and complex systems.  However, it's helpful to offer guidance on which languages or technologies are suited for the projects (e.g., Docker for containerization, AWS for cloud deployment).
 
