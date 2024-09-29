@@ -28,3 +28,8 @@ Describe or show what the final project should look like (e.g., screenshot or ou
 **Additional Resources:**
 
 Provide links to tutorials or documentation to help the contributor get started.
+
+> [!NOTE]
+> Projects **do not have to be language-specific**.
+> - **Beginner Projects**: Can be written in any beginner-friendly language like Python, JavaScript, or HTML/CSS.
+
