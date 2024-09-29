@@ -31,3 +31,8 @@ Provide optional challenges for further exploration (e.g., add a new feature, re
 **Additional Resources:**
 
 Links to API documentation, advanced tutorials, etc.
+
+> [!NOTE]
+> Projects **do not have to be language-specific**.
+> - **Intermediate Projects**: Could encourage usng certain languages based on the complexity (e.g., JavaScript for front-end apps, Python for data manipulation).
+
