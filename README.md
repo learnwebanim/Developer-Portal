@@ -77,5 +77,8 @@ A big thank you to all our amazing contributors!  Check out the [Contributors pa
 -->
 ## 📞 Contact Us
 Have questions?  Feel free to open an issue or reach out to us via email at [learnwebanim@gmail.com](learnwebanim@gmail.com).
+
+Let's learn, collaborate, and grow together! 💻🖥️ 
+
 ## Licence
 This project is licensed under the MIT License - See the [LICENSE](LICENCE.md) file for details.
